@@ -5,16 +5,6 @@ void setup() {
 }
 
 
-
-
-
-
-
-
-
-
-
-
 //1b
 void shalom() {
   println("Hello from the function.");
